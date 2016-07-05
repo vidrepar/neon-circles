@@ -1,0 +1,21 @@
+{
+  "name": "neon-circles",
+  "authors": [
+    "vidrepar <vid.repar@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "easeljs#^0.8.2",
+    "gsap": "greensock#^1.18.5"
+  }
+}
